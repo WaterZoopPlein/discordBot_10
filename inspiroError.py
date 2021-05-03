@@ -1,0 +1,2 @@
+class InspiroError(Exception):
+    pass
